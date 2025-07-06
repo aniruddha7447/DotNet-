@@ -37,6 +37,11 @@
 
 ### 📦 Clone the Repository
 
+📬 Contact
+Aniruddha Shivaji Lalge
+📧 aniruddhalalge283@gmail.com
+🔗 LinkedIn
+
 ```bash
 git clone https://github.com/your-username/weird-dream-logs.git
 cd weird-dream-logs
@@ -52,9 +57,4 @@ cd weird-dream-logs
     ├── public/
     ├── package.json
     └── vite.config.js
-
-📬 Contact
-Aniruddha Shivaji Lalge
-📧 aniruddhalalge283@gmail.com
-🔗 LinkedIn
 
