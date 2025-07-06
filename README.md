@@ -2,7 +2,7 @@
 
 **Weird Dream Logs** is a full-stack web application where users can log, reflect on, and track their dreams. It combines a **React.js (Vite)** frontend with a robust **ASP.NET Core** backend API and Entity Framework for data persistence.
 
-![Banner](https://user-images.githubusercontent.com/your-banner.png) <!-- Optional banner -->
+
 
 ---
 
